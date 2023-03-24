@@ -2,7 +2,7 @@
 
 *Note: This project is currently under construction.*
 
-BizHub is a web application built with React on the front-end and vanilla PHP on the back-end. The app aims to help businesses organize their teams better by providing features such as task management, meetings management, and chat between employees. 💼💬📅
+BizHub is a web application built in HTML, CSS and JavaScript on the front-end and vanilla PHP on the back-end. The app aims to help businesses organize their teams better by providing features such as task management, meetings management, and chat between employees. 💼💬📅
 
 ## Features
 
@@ -12,7 +12,6 @@ BizHub is a web application built with React on the front-end and vanilla PHP on
 
 ## Technologies Used
 
-- **React**: A JavaScript library for building user interfaces. ⚛
 - **PHP**: A popular server-side programming language used to build web applications. 🐘
 - **MySQL**: A powerful open-source relational database management system. 🗄
 
